@@ -1,4 +1,5 @@
-from fastapi import FastAPI, Query
+import random
+from fastapi import FastAPI
 
 app = FastAPI()
 
